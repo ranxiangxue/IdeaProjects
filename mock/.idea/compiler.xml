@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Imoco-jiekou" />
+        <module name="9-httpclient" />
       </profile>
     </annotationProcessing>
   </component>
